@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">Hunt The Wumpus</string>
+
+    <string name="app_error_message">Error loading data. Yikes!</string>
+
+    <string name="Start">Start</string>
+    <string name="LeaderBoards">Leader Boards</string>
+    <string name="Options">Options</string>
+
+</resources>

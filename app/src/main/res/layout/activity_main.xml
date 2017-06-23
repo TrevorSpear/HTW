@@ -12,17 +12,15 @@
         android:layout_height="495dp"
         android:orientation="vertical"
         android:padding="8sp"
-        android:background="@mipmap/ic_Start"
+        android:background="@mipmap/ic_start"
         tools:layout_editor_absoluteX="8dp"
-        app:layout_constraintTop_toTopOf="parent"
         >
-
 
         <Button
             android:id="@+id/btn_Start"
-            android:layout_width="185dp"
+            android:layout_width="200dp"
             android:layout_height="wrap_content"
-            android:layout_marginTop="100dp"
+            android:layout_marginTop="25dp"
             android:text="@string/Start"
             android:textSize="22sp"
             android:layout_gravity="center"
@@ -30,7 +28,7 @@
 
         <Button
             android:id="@+id/btn_LeaderBoards"
-            android:layout_width="195dp"
+            android:layout_width="200dp"
             android:layout_height="wrap_content"
             android:layout_marginTop="25dp"
             android:text="@string/LeaderBoards"
@@ -40,7 +38,7 @@
 
         <Button
             android:id="@+id/btn_Options"
-            android:layout_width="195dp"
+            android:layout_width="200dp"
             android:layout_height="wrap_content"
             android:layout_marginTop="25dp"
             android:text="@string/Options"

@@ -8,4 +8,13 @@
     <string name="LeaderBoards">Leader Boards</string>
     <string name="Options">Options</string>
 
+    <string name="Move">Move</string>
+    <string name="Shoot">Shoot</string>
+    <string name="GoBack">Go Back</string>
+
+    <string name="North">North</string>
+    <string name="East">East</string>
+    <string name="South">South</string>
+    <string name="West">West</string>
+
 </resources>
